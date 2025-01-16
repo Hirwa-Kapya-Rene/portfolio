@@ -14,3 +14,14 @@ body{
   color: white;
   font-family: "geologic", sans-serif;
 }
+.description{
+  font-size: 3.5em;
+}
+.description span{
+  position: relative;
+  display: inline-block;
+  color: #ff8800;
+  height: 1.25em;
+  vertical-align: bottom;
+  overflow: hidden;
+}
