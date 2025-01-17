@@ -29,6 +29,3 @@ h1 > span > span{
   display: block;
   animation: animateworks 5s infinite ease;
 }
-@keyframes animateworks{
-  }
-}
